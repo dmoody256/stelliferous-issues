@@ -1,6 +1,7 @@
 # Stelliferous known issues
 
-The public list of known bugs in Stelliferous, and how far each one has got.
+The public list of known bugs in Stelliferous. The
+[board](https://github.com/users/dmoody256/projects/1) shows how far each one has got.
 
 This tracker is read-only. The developer writes every issue here by hand, and nobody else can open
 an issue, comment or react.
